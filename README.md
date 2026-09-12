@@ -10,11 +10,12 @@ Data scientist based in Bangalore. Since 2022 I've built ML and analytics system
 |---|---|---|
 | [Adaptive payment-gateway router](https://lagnis337.github.io/projects/adaptive-gateway-router.html) | RL router that shifts payment traffic away from degrading gateways — PPO pre-trained in a turbulence simulator, deployed with online UCB exploration and safety constraints | Razorpay · write-up |
 | [Driver churn prediction](https://lagnis337.github.io/projects/driver-churn.html) | Daily-scored XGBoost + random-forest ensemble over ~150k drivers; monthly churn 42% → 30% over three months, with an ops feedback loop that reshaped the product | Namma Yatri · write-up |
+| [Driver safety enforcement](https://lagnis337.github.io/projects/driver-safety-enforcement.html) | Multilingual rider feedback (Sarvam translation → TF-IDF classifier) sorted into five severity buckets and mapped to a graded consequence — matching deprioritisation or human-confirmed block; safety complaints down ~50% | Namma Yatri · write-up |
 | [Slack-native AI analyst](https://lagnis337.github.io/projects/text-to-sql-analyst.html) | 2,000+ documents compiled into a human-ratified data wiki; a model-agnostic agent navigates it index-first and runs guarded SQL — 96% 👍, ~40% of a 127-person team daily | Razorpay · write-up |
 | [FPL player-performance models](https://github.com/lagnis337/fpl-player-models) | Predicting Fantasy Premier League points from public data with a 75-gameweek walk-forward backtest; includes two data-quality findings | Personal · code |
 | [Linear algebra for ML — coursework](https://github.com/lagnis337/linear-algebra-for-ml-coursework) | UC San Diego Extended Studies (A+): PCA face compression; gradient descent vs. the normal equation, reproducible | Coursework · code |
 
-Also shipped (no write-up): a rider-feedback NLP classifier for driver safety enforcement and a Gemini Live voice support agent at Namma Yatri; an offer-propensity ranking model at Uber.
+Also shipped (no write-up): a Gemini Live voice support agent at Namma Yatri; an offer-propensity ranking model at Uber.
 
 Smaller builds: [Log Ingestor](https://github.com/lagnis337/logs_ingestor) (Node + PostgreSQL), [Lift Simulator](https://github.com/lagnis337/Lift_Simulator) ([live demo](https://lagnis337.github.io/Lift_Simulator/)).
 
