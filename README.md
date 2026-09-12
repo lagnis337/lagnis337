@@ -1,6 +1,6 @@
 # Chirag Singal
 
-Data scientist at Razorpay, Bangalore. Since 2022 I've built ML and analytics systems in fintech and ride-hailing — fraud detection, churn prediction, an adaptive RL router, and an LLM analyst that answers a team's data questions from its own wiki.
+Data scientist based in Bangalore. Since 2022 I've built ML and analytics systems in fintech and ride-hailing — fraud detection, churn prediction, an adaptive RL router, and an LLM analyst that answers a team's data questions from its own wiki.
 
 **Portfolio with case studies: [lagnis337.github.io](https://lagnis337.github.io)**
 
