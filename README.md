@@ -1,6 +1,6 @@
 # Chirag Singal
 
-Data scientist based in Bangalore. Since 2022 I've built ML and analytics systems in fintech and ride-hailing — fraud detection, churn prediction, an adaptive RL router, and an LLM analyst that answers a team's data questions from its own wiki.
+Data scientist based in Bangalore. Since 2022 I've built ML and analytics systems in fintech and ride-hailing — churn prediction, an adaptive RL router, and an LLM analyst that answers a team's data questions from its own wiki.
 
 **Portfolio with case studies: [lagnis337.github.io](https://lagnis337.github.io)**
 
@@ -13,6 +13,8 @@ Data scientist based in Bangalore. Since 2022 I've built ML and analytics system
 | [Slack-native AI analyst](https://lagnis337.github.io/projects/text-to-sql-analyst.html) | 2,000+ documents compiled into a human-ratified data wiki; a model-agnostic agent navigates it index-first and runs guarded SQL — 96% 👍, ~40% of a 127-person team daily | Razorpay · write-up |
 | [FPL player-performance models](https://github.com/lagnis337/fpl-player-models) | Predicting Fantasy Premier League points from public data with a 75-gameweek walk-forward backtest; includes two data-quality findings | Personal · code |
 | [Linear algebra for ML — coursework](https://github.com/lagnis337/linear-algebra-for-ml-coursework) | UC San Diego Extended Studies (A+): PCA face compression; gradient descent vs. the normal equation, reproducible | Coursework · code |
+
+Also shipped (no write-up): a rider-feedback NLP classifier for driver safety enforcement and a Gemini Live voice support agent at Namma Yatri; an offer-propensity ranking model at Uber.
 
 Smaller builds: [Log Ingestor](https://github.com/lagnis337/logs_ingestor) (Node + PostgreSQL), [Lift Simulator](https://github.com/lagnis337/Lift_Simulator) ([live demo](https://lagnis337.github.io/Lift_Simulator/)).
 
