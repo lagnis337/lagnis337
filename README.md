@@ -16,8 +16,6 @@ Data scientist in Bangalore, on the Global Payments team at Razorpay. Since 2022
 
 Smaller builds: [Log Ingestor](https://github.com/lagnis337/logs_ingestor) (Node + PostgreSQL), [Lift Simulator](https://github.com/lagnis337/Lift_Simulator) ([live demo](https://lagnis337.github.io/Lift_Simulator/)).
 
-Also: [a guide to writing project case studies](https://github.com/lagnis337/ds-application-portfolio-guide) for graduate-school applications, with a template and worked examples.
-
 ## Contact
 
 [linkedin.com/in/chiragsingal](https://www.linkedin.com/in/chiragsingal) · chiragsingal337@gmail.com
