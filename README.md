@@ -1,6 +1,6 @@
 # Chirag Singal
 
-Data scientist based in Bangalore. Since 2022 I've built ML and analytics systems in fintech and ride-hailing — churn prediction, an adaptive RL router, and an LLM analyst that answers a team's data questions from its own wiki.
+Senior Data scientist based in Bangalore. Since 2022 I've built machine-learning and analytics systems with an expertise in fintech and ride-hailing — churn prediction, an adaptive RL router, and an LLM analyst that answers a team's data questions from its own wiki.
 
 **Portfolio with case studies: [lagnis337.github.io](https://lagnis337.github.io)**
 
